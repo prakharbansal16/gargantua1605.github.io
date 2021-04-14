@@ -4,7 +4,7 @@ subtitle: Courses which I'm currently teaching
 layout: "page"
 icon: fa-chalkboard-teacher
 
-order: 3
+order: 5
 ---
 
 Teaching is my another hobby (after self roasting :/).Currently I'm teaching thermodynamics to class 11-12 students for JEE.<br/>
