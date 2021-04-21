@@ -12,7 +12,8 @@ Here are the course materials for the same:<br/>
 1.[Assignments](https://github.com/Gargantua1605/gargantua1605.github.io/files/6310440/Assignments.pdf)<br/>
 2.[Thermodynamics and Thermochemistry module](https://github.com/Gargantua1605/gargantua1605.github.io/files/6310447/Thermodynamics.and.Thermochemistry.pdf)<br/>
 3.[Class Video Recordings Folder](https://drive.google.com/drive/folders/1fMyk7Z9f2Dr5d_l0GuxH613RqeKDd_4r?usp=sharing)<br/>
-4.Class-1 18/4/2021 [Thermo Notes ](https://github.com/Gargantua1605/gargantua1605.github.io/files/6334306/Thermo.Notes.18-4-21.pdf)
+4.Class-1 18/4/2021 [Thermo Notes ]([THERMODYNAMICS.pdf](https://github.com/Gargantua1605/gargantua1605.github.io/files/6350395/THERMODYNAMICS.pdf)
+)
 
 
 
