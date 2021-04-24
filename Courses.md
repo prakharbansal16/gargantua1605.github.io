@@ -1,4 +1,3 @@
-
 ---
 title: Courses
 subtitle: Courses which I'm currently teaching 
