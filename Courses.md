@@ -4,7 +4,6 @@ title: Courses
 subtitle: Courses which I'm currently teaching 
 layout: "page"
 icon: fa-chalkboard-teacher
-
 order: 2
 ---
 
