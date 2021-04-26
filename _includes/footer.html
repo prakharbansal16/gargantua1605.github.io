@@ -1,5 +1,6 @@
 <!-- Footer -->
-<div id="footer">
+<footer>
+  <div class="container beautiful-jekyll-footer">
   
  
   
@@ -17,7 +18,7 @@
   <li><a href="{{- site.instagram_url -}}" class="icon-b fa-instagram"><span class="label">Instagram</span></a></li>
   {%- endif -%}
   {%- if site.linkedin_url -%}
-  <li><a href="{{- site.linkedin_url -}}" class="icon-b  fa-linkedin"><span class="label">LinkedIn</span></a></li>
+  <li><a href="{{- site.linkedin_url -}}" class="icon-b  fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
   {%- endif -%}
   {%- if site.github_url -%}
   <li><a href="{{- site.github_url -}}" class="icon-b  fa-github"><span class="label">GitHub</span></a></li>
@@ -42,6 +43,8 @@
 
 
   </p>
+  <p>{{ site.author.name }}</p>
   </ul>
   
 </div>
+</footer>
