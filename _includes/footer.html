@@ -5,7 +5,19 @@
   
  
   <p style="text-align: center "> {{site.author}} </p>
-<ul class="list-inline text-center footer-links">
+  
+  
+<style>
+div.myDivElement{
+	text-align:center;
+}
+div.myDivElement ul li{
+   display:inline;
+ }
+</style>
+  <div class="myDivElement">
+<ul>
+ 
   {%- if site.twitter_url -%}
   <li><a href="{{- site.twitter_url -}}" class="icon-b fa-twitter"><span class="label">Twitter</span></a></li>
   {%- endif -%}
@@ -40,5 +52,6 @@
   <li><a href="mailto:{{- site.email -}}" class="icon fa-envelope"><span class="label">Email</span></a></li>
   {%- endif -%}
 </ul>
+  </div>
  </div>
 </footer>
