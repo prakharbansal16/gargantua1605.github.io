@@ -7,16 +7,7 @@
   <p style="text-align: center "> {{site.author}} </p>
   
   
-<style>
-div.myDivElement{
-	text-align:center;
-}
-div.myDivElement ul li{
-   display:inline;
- }
-</style>
-  <div class="myDivElement">
-<ul>
+<ul class="icons">
  
   {%- if site.twitter_url -%}
   <li><a href="{{- site.twitter_url -}}" class="icon-b fa-twitter"><span class="label">Twitter</span></a></li>
@@ -31,10 +22,10 @@ div.myDivElement ul li{
   <li><a href="{{- site.instagram_url -}}" class="icon-b fa-instagram"><span class="label">Instagram</span></a></li>
   {%- endif -%}
   {%- if site.linkedin_url -%}
-  <li><a href="{{- site.linkedin_url -}}" class="icon-b  fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+  <li><a href="{{- site.linkedin_url -}}" class="icon-b  fa-linkedin-in" target="_blank"><span class="label">LinkedIn</span></a></li>
   {%- endif -%}
   {%- if site.github_url -%}
-  <li><a href="{{- site.github_url -}}" class="icon-b  fa-github"><span class="label">GitHub</span></a></li>
+  <li><a href="{{- site.github_url -}}" class="icon-b  fa-github" target="_blank"><span class="label">GitHub</span></a></li>
   {%- endif -%}
   {%- if site.stackoverflow_url -%}
   <li><a href="{{- site.stackoverflow_url -}}" class="icon-b fa-stack-overflow"><span class="label">StackOverflow</span></a></li>
@@ -53,5 +44,5 @@ div.myDivElement ul li{
   {%- endif -%}
 </ul>
   </div>
- </div>
+ 
 </footer>
