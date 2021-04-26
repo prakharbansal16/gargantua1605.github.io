@@ -34,8 +34,9 @@ title: Gargantua1605
 subtitle: Where singularities do exist
 description: >- # this means to ignore newlines until "baseurl:"
   Hello there,what u are looking at now is an "infant" website which is created just to ease up my load a bit.
-author: Prakhar Bansal
-email: 
+Personnel_email: bansal.prakhar01@gmail.com
+Ldap_email: 200070056@iitb.ac.in
+author: Prakhar Bansal 
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
@@ -52,8 +53,7 @@ url: "https://gargantua1605.github.io/" # the base hostname & protocol for your 
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 #social-network-links:
   
- Personnel_email: bansal.prakhar01@gmail.com
- Ldap_email: 200070056@iitb.ac.in
+
  
   # facebook: aryaman.maithani
   #github: gargantua1605
