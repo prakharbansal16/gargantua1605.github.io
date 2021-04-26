@@ -52,9 +52,9 @@ url: "https://gargantua1605.github.io/" # the base hostname & protocol for your 
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 #social-network-links:
   
- #Personnel_email: "bansal.prakhar01@gmail.com"
- #Ldap_email: "200070056@iitb.ac.in"
- #Contact: "9460228213"
+ Personnel_email: "bansal.prakhar01@gmail.com"
+ Ldap_email: "200070056@iitb.ac.in"
+ Contact: "9460228213"
   # facebook: aryaman.maithani
   #github: gargantua1605
 
