@@ -1,48 +1,26 @@
- <div id="sidebar">
-    <div class="inner">
-      <!--Mode Toggle-->
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-      <label for="mode" class="switch"><input type="checkbox" id="mode"><div class="slider round"></div></label>
 
-      <!-- Search >
-        <section id="search" class="alt">
-          <form method="post" action="#">
-            <input type="text" name="query" id="query" placeholder="Search" />
-          </form>
-        </section-->
-     
-     
-      <!-- Menu -->
-        <nav id="menu">
-          <header class="major">
-            <h2>Menu</h2>
-          </header>
-          <ul>
-            <li><a href="{{''| absolute url }}">Home</a></li>
-            <li><a href="{{'/Courses'}}">Courses</a></li>
-            <li><a href="{{'/Special Relativity'}}">My Notes</a></li>
-           
-            
-            <!--li><a href="{{ '' | absolute_url }}">Home</a></li>         
-            <li><a href="{{ '/About Me'}}">About Me</a></li>         
-            <li>
-              <span class="opener">Academics</span>
-              <ul>
-              <li><a href="{{ '/Courses'}}">Courses</a></li>
-              <li><a href="{{ '/Time Table' }}">Time Table</a></li>
-              </ul>
-            </li>
-              <li><a href="{{ '/Projects'}}">Projects</a></li>
-            <li>
-              <span class="opener">Tutorials</span>
-              <ul>
-              <li><a href="{{ '/CS101' }}">CS 101</a></li>
-              </ul>
-            </li>
-              <li><a href="{{ '/Resume'}}">Resume</a></li>
-              <li><a href="{{ '/Blog'}}">Blog</a></li>
-              <li><a href="{{ '/Random Stuff'}}">Random Stuff</a></li> -->
-          </ul>
-        </nav>
-  </div>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <!-- <title>Sider Menu Bar CSS</title> -->
+    <link rel="stylesheet" href="sidebar.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+  </head>
+  <body>
+    <input type="checkbox" id="check">
+    <label for="check">
+      <i class="fas fa-bars" id="btn"></i>
+      <i class="fas fa-times" id="cancel"></i>
+    </label>
+    <div class="sidebar">
+    <header>Menu</header>
+  <ul>
+<li><a href="{{ '' | absolute_url }}"><i class="fas fa-home"></i>Homepage</a></li>
+<li><a href="{{ '/Courses'}}"><i class="fas fa-chalkboard-teacher"></i>Courses</a></li>
+<li><a href="{{ '/Special Relativity'}}"><i class="far fa-clipboard"></i>My Notes</a></li>
+
+</ul>
 </div>
+<section></section>
+  </body>
+</html>
