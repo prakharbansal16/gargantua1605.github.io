@@ -1,6 +1,6 @@
 --- 
 ---
-@import "{{ site.theme }}";
+@import "jekyll-theme-prologue";
 
 
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500');
