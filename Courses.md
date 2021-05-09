@@ -19,7 +19,7 @@ Here are the course materials for the same:<br/>
 9.Class-3 1/5/2021 [Thermo Notes 1-5-21](https://github.com/Gargantua1605/gargantua1605.github.io/files/6411177/Thermo.Notes.1-5-21.pdf)<br/>
 10.Handout on Graphs in Thermodynamic Process [Graphs](https://github.com/Gargantua1605/gargantua1605.github.io/files/6416248/Graphs.pdf)<br/>
 11.Class-4 3/5/21 [Thermo Notes 3-5-21](https://github.com/Gargantua1605/gargantua1605.github.io/files/6419035/Thermo.Notes.3-5-21.pdf)<br/>
-12.Doubts_discussion 1/5/2021[Doubts_session_8May.pdf](https://github.com/Gargantua1605/gargantua1605.github.io/files/6447152/Doubts_8.May.pdf)<br/>
+12.Doubts_discussion 1/5/2021[Doubts_session_8May.pdf](https://github.com/Gargantua1605/gargantua1605.github.io/files/6447152/Doubts_8.May)<br/>
 13.Class-5 8/5/21 [Thermo Notes 8-5-21](https://github.com/Gargantua1605/gargantua1605.github.io/files/6447148/Thermo.Notes.8.may.pdf)
 
 
