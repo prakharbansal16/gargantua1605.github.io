@@ -16,13 +16,13 @@ Here are the course materials for the same:<br/>
 |4.Class-1 18/4/2021| [Thermo Notes 18-4-21 ](https://github.com/Gargantua1605/gargantua1605.github.io/files/6350399/Thermo.Notes.18-4-21.pdf)|<br/>
 |5.Class-2 24/4/2021| [Thermo Notes 24-4-21](https://github.com/Gargantua1605/gargantua1605.github.io/files/6369947/Thermo.Notes.24-4-21.pdf)|<br/>
 |6.Doubts_discussion 24/4/2021| [Doubt_session_24April](https://github.com/Gargantua1605/gargantua1605.github.io/files/6369959/Doubt_session_24April.pdf)|<br/>
-7.Solutions to last 2 problems of 24 April Notes [24 April Notes_Problems_Solutions](https://github.com/Gargantua1605/gargantua1605.github.io/files/6392490/24.April.Notes_Problems_Solutions.pdf)<br/>
-8.Doubts_discussion 1/5/2021 [Doubt_session_1May](https://github.com/Gargantua1605/gargantua1605.github.io/files/6409465/Doubt_session_1May.pdf)<br/>
-9.Class-3 1/5/2021 [Thermo Notes 1-5-21](https://github.com/Gargantua1605/gargantua1605.github.io/files/6411177/Thermo.Notes.1-5-21.pdf)<br/>
-10.Handout on Graphs in Thermodynamic Process [Graphs](https://github.com/Gargantua1605/gargantua1605.github.io/files/6416248/Graphs.pdf)<br/>
-11.Class-4 3/5/21 [Thermo Notes 3-5-21](https://github.com/Gargantua1605/gargantua1605.github.io/files/6419035/Thermo.Notes.3-5-21.pdf)<br/>
-12.Doubts_discussion 1/5/2021[Doubts_session_8May.pdf](https://github.com/Gargantua1605/gargantua1605.github.io/files/6447152/Doubts_8.May)<br/>
-13.Class-5 8/5/21 [Thermo Notes 8-5-21](https://github.com/Gargantua1605/gargantua1605.github.io/files/6447148/Thermo.Notes.8.may.pdf)
+|7.Solutions to last 2 problems of 24 April Notes| [24 April Notes_Problems_Solutions](https://github.com/Gargantua1605/gargantua1605.github.io/files/6392490/24.April.Notes_Problems_Solutions.pdf)|<br/>
+|8.Doubts_discussion 1/5/2021| [Doubt_session_1May](https://github.com/Gargantua1605/gargantua1605.github.io/files/6409465/Doubt_session_1May.pdf)|<br/>
+|9.Class-3 1/5/2021| [Thermo Notes 1-5-21](https://github.com/Gargantua1605/gargantua1605.github.io/files/6411177/Thermo.Notes.1-5-21.pdf)|<br/>
+|10.Handout on Graphs in Thermodynamic Process| [Graphs](https://github.com/Gargantua1605/gargantua1605.github.io/files/6416248/Graphs.pdf)|<br/>
+|11.Class-4 3/5/21| [Thermo Notes 3-5-21](https://github.com/Gargantua1605/gargantua1605.github.io/files/6419035/Thermo.Notes.3-5-21.pdf)|<br/>
+|12.Doubts_discussion 1/5/2021|[Doubts_session_8May.pdf](https://github.com/Gargantua1605/gargantua1605.github.io/files/6447152/Doubts_8.May)|<br/>
+|13.Class-5 8/5/21| [Thermo Notes 8-5-21](https://github.com/Gargantua1605/gargantua1605.github.io/files/6447148/Thermo.Notes.8.may.pdf)|
 
 
 
