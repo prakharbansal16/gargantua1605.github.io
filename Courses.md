@@ -27,7 +27,9 @@ Here are the course materials for the same:<br/>
 16.[Thermodynamics Test 1 Solutions](https://github.com/Gargantua1605/gargantua1605.github.io/files/6454413/Thermodynamics.Test.1.Solutions.pdf)<br/>
 17.Class-6 10/5/2021 [Thermo Notes 10-5-21](https://github.com/Gargantua1605/gargantua1605.github.io/files/6454416/Thermo.Notes.10.May.pdf)<br/>
 18.Doubts_discussion 15/5/2021[Doubts_session_15May](https://github.com/Gargantua1605/gargantua1605.github.io/files/6487778/Doubts.15.may.pdf)<br/>
-19.Class-7 15/5/2021 [Thermo Notes 15-5-21](https://github.com/Gargantua1605/gargantua1605.github.io/files/6487781/Thermo.Notes.15.May.pdf)
+19.Class-7 15/5/2021 [Thermo Notes 15-5-21](https://github.com/Gargantua1605/gargantua1605.github.io/files/6487781/Thermo.Notes.15.May.pdf)<br/>
+20.Class-8 17/5/2021 [Thermo Notes 17-5-21](https://github.com/Gargantua1605/gargantua1605.github.io/files/6499483/Thermo.Notes.17.may.pdf)<br/>
+
 
 
 
